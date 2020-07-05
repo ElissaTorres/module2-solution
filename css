@@ -1,1 +1,45 @@
 
+p {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  margin-bottom: 15px;
+}
+
+h1 {
+  color: black;
+  font-size: 36px;
+  font-family: sans-serif;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+h2 {
+ color: black;
+ font-family: sans-serif;
+ font-size: 20px;
+ border: 200px solid black;
+ margin: 30px;
+ width: 200px;
+ text-align: right; 
+ background-color: #F08080;
+ float: right;
+}
+
+h3 {
+ color: white;
+ font-size: 25px;
+ border: 2px solid black;
+ width: 200px;
+ text-align: right;
+ background-color: #B22222;
+}
+
+h4 {
+ color: black;
+ font-size: 25px;
+ border: 2px solid black;
+ width: 200px;
+ text-align: right;
+ background-color: #F0E68C;
+ }
